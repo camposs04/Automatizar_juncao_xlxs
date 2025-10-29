@@ -6,7 +6,7 @@ Esta aplicação Streamlit automatiza o processo de limpeza (mesclagem de linhas
 
 | Ambiente | Link |
 | :--- | :--- |
-| **Aplicação Online** | **[automatizar_dossie][https://automatizarjuncao.streamlit.app/]** |
+| **Aplicação Online** | **" [automatizar_dossie][https://automatizarjuncao.streamlit.app/] "** |
 
 ## ✨ Funcionalidades
 
